@@ -1,7 +1,7 @@
 /*
 Student Name : Dipesh Karki
 Subject : Programming fundamental
-Program : write a c program to enter any number and calculate its square
+Program : write a c program to find odd or even numbers
 lab sheet : 07
 Date : 28 November , 2016
 */
