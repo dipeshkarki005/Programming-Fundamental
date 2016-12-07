@@ -2,7 +2,7 @@
 Student Name : Dipesh Karki
 Roll No.: 13
 Subject : Programming fundamental
-Program : write a c program to
+Program : write a c program to use logical operator
 lab sheet : 10
 Date : 5 December , 2016
 */
